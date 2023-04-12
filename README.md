@@ -6,10 +6,10 @@
   
 │   └── 益处.docx
 ├── 1 学习
-│   ├── 0-ChatGPT完全指南－初學者到大師的職涯必修課.mp4  
-│   ├── 第六章：1000+ GPT-4 人工智能提示.docx
-│   ├── 第四章：ChatGPT如何改变教育.docx
-│   ├── 第三章：ChatGPT高级指南（开发者 ）.docx
+│   ├── 0-ChatGPT完全指南－初學者到大師的職涯必修課.mp4      
+│   ├── 第六章：1000+ GPT-4 人工智能提示.docx   
+│   ├── 第四章：ChatGPT如何改变教育.docx.   
+│   ├── 第三章：ChatGPT高级指南（开发者 ）.docx.    
 │   ├── 第五章：使用chatGPT学习（其他）.docx
 │   ├── 第一章：如何学习 ChatGPT（基础）.docx
 │   ├── 第二章：如何学习ChatGPT（进阶）.docx
